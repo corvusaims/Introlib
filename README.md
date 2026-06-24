@@ -1,7 +1,5 @@
 # IntroLib
 
-# inspired by @611v on discord go send him a kiss
-
 Simple and customizable intro UI library for Roblox.
 
 Designed for clean intros for any scripts with logo support, animations, progress bar, and full visual control.
@@ -11,7 +9,7 @@ Designed for clean intros for any scripts with logo support, animations, progres
 # Quick Install
 
 ```lua
-local Intro = loadstring(game:HttpGet("https://raw.githubusercontent.com/ofugii/Introlib/refs/heads/main/IntroLib.lua"))()
+local Intro = loadstring(game:HttpGet("https://raw.githubusercontent.com/corvusaims/Introlib/refs/heads/main/IntroLib.lua"))()
 
 Intro:Play({
 
@@ -29,7 +27,7 @@ ContinueText = "Click to continue"
 # Example
 
 ```lua
-local Intro = loadstring(game:HttpGet("https://raw.githubusercontent.com/ofugii/Introlib/refs/heads/main/IntroLib.lua"))()
+local Intro = loadstring(game:HttpGet("https://raw.githubusercontent.com/corvusaims/Introlib/refs/heads/main/IntroLib.lua"))()
 
 Intro:Play({
 
@@ -192,4 +190,4 @@ Intro:Play()
 
 # GitHub
 
-https://github.com/ofugii/Introlib
+https://github.com/corvusaims/Introlib
